@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/react-hooks-pokemon-api/static/css/main.7acaea2f.css",
-    "main.js": "/react-hooks-pokemon-api/static/js/main.bc46ddd9.js",
+    "main.css": "/react-hooks-pokemon-api/static/css/main.7c5e8e23.css",
+    "main.js": "/react-hooks-pokemon-api/static/js/main.ce556a07.js",
+    "static/media/error.jpg": "/react-hooks-pokemon-api/static/media/error.7d86105a62bf3b28ec78.jpg",
     "index.html": "/react-hooks-pokemon-api/index.html",
-    "main.7acaea2f.css.map": "/react-hooks-pokemon-api/static/css/main.7acaea2f.css.map",
-    "main.bc46ddd9.js.map": "/react-hooks-pokemon-api/static/js/main.bc46ddd9.js.map"
+    "main.7c5e8e23.css.map": "/react-hooks-pokemon-api/static/css/main.7c5e8e23.css.map",
+    "main.ce556a07.js.map": "/react-hooks-pokemon-api/static/js/main.ce556a07.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.bc46ddd9.js"
+    "static/css/main.7c5e8e23.css",
+    "static/js/main.ce556a07.js"
   ]
 }
