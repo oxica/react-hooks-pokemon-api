@@ -1,10 +1,13 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import { App } from 'components/App';
+import ReactDOM from 'react-dom';
+import 'modern-normalize/modern-normalize.css';
 import './index.css';
+import 'react-toastify/dist/ReactToastify.css';
+import App from './App';
 
-ReactDOM.createRoot(document.getElementById('root')).render(
+ReactDOM.render(
   <React.StrictMode>
     <App />
-  </React.StrictMode>
+  </React.StrictMode>,
+  document.getElementById('root'),
 );
